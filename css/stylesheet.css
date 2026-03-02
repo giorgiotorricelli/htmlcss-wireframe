@@ -11,4 +11,21 @@
 .container  {
     max-width: 512px;
     margin: 0 auto;
+    background-color: white;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+article {
+    padding: 10px 20px;
+    border-color: 2px solid black;
+    border-radius: 20px;
+
 }
